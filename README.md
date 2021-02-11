@@ -18,11 +18,9 @@ This technique is opposite to the Green Screening. In green screening, we remove
 
 # Implementation
 ## Importing Libraries
-<strong>OpenCV</strong> will be used for image processing part i.e. to start the camera, read each frame in code, color detection, color masking, and streaming final results
-
-<strong>Numpy</strong> will be used to deal with arrays as images in python are a series of Numpy array
-
-<strong>Time </strong>
+<strong>OpenCV</strong> will be used for image processing part i.e. to start the camera, read each frame in code, color detection, color masking, and streaming final results<br>
+<strong>Numpy</strong> will be used to deal with arrays as images in python are a series of Numpy array<br>
+<strong>Time </strong><br>
 
 ```
 import cv2
